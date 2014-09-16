@@ -1,0 +1,87 @@
+/* Styles for Pokemon EV/IV Tracker Site */
+
+/* -----------------------Header----------------------- */
+header {
+	background-color:#FEE8B9;
+	border: 2px solid #FEE8B9;
+    border-radius: 25px;
+	width:100%;
+}
+
+header h1 {
+	color:#996600;
+	font-family:"Florence", cursive, sans-serif;
+	font-style:italic;
+	display:inline-block;
+	padding:10px;
+}
+
+header img {
+	display:inline-block;
+	float:right;
+	padding:30px 10px 0 0;
+}
+
+/* ---------------------Row--------------------- */
+div#row {
+	background-color:#FEE8B9;
+	border: 2px solid #FEE8B9;
+    border-radius: 25px;
+	display:inline-block;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-top:10px;
+	width:100%;
+	text-align:center;
+}
+
+/* -----------------------Columns----------------------- */
+div#columns {
+	
+}
+
+div#nav {
+	background-color:#FEE8B9;
+	border: 2px solid #FEE8B9;
+    border-radius: 25px;
+	padding:10px;
+	margin:10px;
+	width:150px;
+	display:inline-block;
+}
+
+div#ev-tracker {
+	background-color:#FEE8B9;
+	border: 2px solid #FEE8B9;
+    border-radius: 25px;
+	padding:10px;
+	margin:10px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+div#iv-tracker {
+	background-color:#FEE8B9;
+	border: 2px solid #FEE8B9;
+    border-radius: 25px;
+	padding:10px;
+	margin:10px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+/* -----------------------Footer------------------------ */
+footer {
+
+}
+
+/* -----------------------General----------------------- */
+body {
+	background-color:#A3CCCC;
+}
+
+div#all {
+	width:80%;
+	margin:auto;
+}
+
